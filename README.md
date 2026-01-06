@@ -81,9 +81,3 @@ These visualizations help simplify complex data patterns and highlight actionabl
 ## Conclusion
 
 This project demonstrates the effective use of SQL and Python for end-to-end data analysis. It highlights the ability to work with real-world datasets, perform complex analytical queries, and communicate insights through visualizations. The analysis provides a comprehensive understanding of e-commerce business performance and customer behavior.
-
-
-* shorten it for **internship applications**
-* align it exactly with **resume bullet points**
-
-Just tell me what you want to do next.
